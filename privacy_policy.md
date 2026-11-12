@@ -63,7 +63,7 @@ We may disclose data if the law requires it.
 ## 5. Your choices and rights
 - **See and edit** your profile data at any time on the Profile screen.
 - **Log out** to end your sign-in session on that device.
-- **Delete your account** by writing to info@swt-iq.com from the phone number or name on your account. We will delete it and confirm within 30 days.
+- **Delete your account** by writing to info@swt-iq.com with the phone number on your account. We will delete it and confirm within 30 days. See [how to delete your account](https://karamiq.github.io/rise_padel_league_privacy_policy/delete-account.html).
 - **Ask for a copy** of your data or object to how we use it by writing to info@swt-iq.com.
 - **Notifications** on the website can be turned off in your browser settings at any time.
 
