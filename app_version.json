@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "android": {
+    "minimumSupportedVersion": "1.0.0",
+    "latestVersion": "1.0.0"
+  },
+  "ios": {
+    "minimumSupportedVersion": "1.0.0",
+    "latestVersion": "1.0.0"
+  }
+}
